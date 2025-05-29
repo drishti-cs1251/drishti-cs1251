@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULL STACKS 
 - 🌱 I’m currently learning backend technologies and framework
 - 💞️ I’m looking to innovate and collaborate .
-- 📫 How to reach me @guptadrishti639@gmail.com
+- 📫 How to reach me @drishtig540@gmail.com
 - 😄 Pronouns: she,her
 - ⚡ Fun fact: Everyone is different and special and so I am! 
 
