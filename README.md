@@ -24,8 +24,17 @@
 - **Tools & Platforms:** Git | GitHub | VS Code | Google Cloud | Docker  
 
 ---
+### Projects
+| Project                          | Description                                                   | Live Demo                                                                   | Source Code                                                           |
+| -------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 🎮 **Tic Tac Toe**               | Classic Tic Tac Toe game with computer as the second player   | [Play Now](https://drishti-cs1251.github.io/tic-tac-toe/)                   | [GitHub](https://github.com/drishti-cs1251/tic-tac-toe)               |
+| 🔢 **Number Guessing Game**      | Guess a random number between 1 and 100 in 10 tries           | [Try It](https://drishti-cs1251.github.io/Number-Guessing-Game/)            | [GitHub](https://github.com/drishti-cs1251/Number-Guessing-Game)      |
+| ✂️ **Rock Paper Scissors**       | Human vs Computer rock-paper-scissors game                    | [Start Playing](https://drishti-cs1251.github.io/Rock-Paper-Scissors/)      | [GitHub](https://github.com/drishti-cs1251/Rock-Paper-Scissors)       |
+| ⌨️ **Keyboard Check**            | Detects which key was pressed on the keyboard                 | [Test Here](https://drishti-cs1251.github.io/KeyBoard-Check/)               | [GitHub](https://github.com/drishti-cs1251/KeyBoard-Check)            |
+| 📚 **Library Management System** | Frontend of a simple library system to manage books and users | [View Project](https://drishti-cs1251.github.io/Library-Management-System/) | [GitHub](https://github.com/drishti-cs1251/Library-Management-System) |
 
 
+---
 ### 🌐 Connect with Me
 
 <p align="left">
