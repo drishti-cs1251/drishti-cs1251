@@ -36,6 +36,8 @@
 | 📏 **Measure Mate**                 | A fun tool to simulate measurements and units visually        | [Launch](https://drishti-cs1251.github.io/Measure-Mate/)                    | [GitHub](https://github.com/drishti-cs1251/Measure-Mate)              |
 | 🍋 **Little Lemon (Meta Capstone)** | Restaurant website built using React                          | [Launch](https://little-lemon-meta-pobq4vt3l-drishti-guptas-projects.vercel.app/)                  | [GitHub](https://github.com/drishti-cs1251/little-lemon-meta)              |
 | 🎮  **AI-Chatbot**                       | An AI-chatbot made using Google Gemini API                    | [Launch](https://drishti-cs1251.github.io/ai-chatbot/)                      | [Github](https://github.com/drishti-cs1251/ai-chatbot)               |
+| 🎮  **LeetCode-COdeBuddy**                       | An AI based progressive hints for solving leetcode problems using Google Gemini API                    | NA                 | [Github](https://github.com/drishti-cs1251/leetcode-buddy)               |
+
 
 ---
 ### 🌐 Connect with Me
